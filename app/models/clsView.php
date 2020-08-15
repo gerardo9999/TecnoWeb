@@ -37,8 +37,8 @@
 
             if (in_array($view,$listWhite)) {
                 
-                if (is_file("./View/Modules/".$view."-view.php")) {
-                    $content = "./View/Modules/".$view."-view.php";
+                if (is_file("./app/views/".$view.".php")) {
+                    $content = "./app/views/".$view.".php";
                 } else {
                     $content = "404";
                 }

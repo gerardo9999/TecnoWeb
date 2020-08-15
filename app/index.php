@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
-<?php include_once '../app/views/plantilla/head.php'?>
+<?php include_once '../app/views/plantilla/head.php';
+
+
+
+?>
 
 
   <body class="skin-green sidebar-mini">
