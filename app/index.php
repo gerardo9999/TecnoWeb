@@ -28,11 +28,6 @@
                 <li class="active"><i class="fa fa-dashboard"></i>Inicio</li>
               </ol>
 
-              <?php 
-                $get = $_GET['views'];  
-                echo $get;
-              ?>
-
           </section>
             
         </div>
